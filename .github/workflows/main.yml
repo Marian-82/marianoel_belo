@@ -2,15 +2,9 @@ name: Maria Noel Belo
 
 on: [push]
 
-
-
-
-
-
 jobs: hola prueba
-HOLa
 
-  build:
+build:
 
     runs-on: ubuntu-latest
 
